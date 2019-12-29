@@ -3,7 +3,7 @@
 ## This is an H2
 
 ###### This is an H6
-aa
+
 - - -
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -50,8 +50,8 @@ id sem consectetuer libero luctus adipiscing.
 *   Magic
 *   A list item with a blockquote:
 
-    > This is a blockquote
-    > inside a list item.
+> This is a blockquote
+> inside a list item.
 
 ---------------------------------------
 
@@ -125,3 +125,7 @@ select * from table where name = 'sql';
 
 > [!WARNING]
 > Dangerous certain consequences of an action.
+
+<div class="footer">
+    &copy; 2004 Foo Corporation
+</div>
