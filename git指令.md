@@ -10,6 +10,7 @@
 1. 提交
     ```
     git commit
+    git commit -m "First Commit"
     git push
     ```
 1. 其他指令
@@ -21,4 +22,5 @@
     git checkout
     git checkout master
     git pull
+    git status
     ```
