@@ -24,3 +24,10 @@
     git pull
     git status
     ```
+1. Branch 更名和刪除
+    ```
+    git branch -m old_name new_name
+    git branch -M old_name new_name (強制覆蓋)
+    git branch new_feature -d
+    git branch new_feature -D (強制刪除)
+    ```

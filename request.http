@@ -1,0 +1,10 @@
+POST http://google.com
+Content-Type: application/json
+
+{
+    "title":"new post",
+    "body" : "this is a new post"
+}
+###
+
+GET http://google.com
