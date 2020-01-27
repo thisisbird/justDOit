@@ -1,7 +1,9 @@
 # Git 指令
 
 1. 初始化專案
-    > `git init`
+    ```
+    git init
+    ```
 1. 加入檔案
     ```
     git add .
